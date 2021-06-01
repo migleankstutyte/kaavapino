@@ -63,7 +63,7 @@ skyfield-data==1.1.0      # via workalendar
 social-auth-app-django==4.0.0
 social-auth-core==3.3.3   # via social-auth-app-django
 sqlparse==0.3.1           # via django
-urllib3==1.25.9           # via requests
+urllib3==1.26.5           # via requests
 workalendar==11.0.1
 
 # The following packages are considered to be unsafe in a requirements file:
